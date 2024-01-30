@@ -53,8 +53,6 @@ GGUF file(s) in the same directory will automatically be detected by the caller,
 ### clone feature: cgg clone [URL]
 With this feature, you can clone any GGUF model/file from URL, save it in the current directory, and get it ready to connect locally (run it with your own machine); depends on the file size, it may take a while to complete the clone process, please be patient.
 
-A known issue for Mac user(s): <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED](https://stackoverflow.com/questions/68275857/urllib-error-urlerror-urlopen-error-ssl-certificate-verify-failed-certifica) > (solution: Install Certificates.command)
-
 #### sample model(s) available to download (try out)
 For general purpose
 https://huggingface.co/calcuis/chat/blob/main/chat.gguf (size: around 2GB or less)
