@@ -50,14 +50,23 @@ GGUF file(s) in the same directory will automatically be detected by the caller,
 [<img src="https://raw.githubusercontent.com/calcuis/chatgpt-model-selector/master/demo.gif" width="350" height="280">](https://github.com/calcuis/chatgpt-model-selector/blob/main/demo.gif)
 [<img src="https://raw.githubusercontent.com/calcuis/chatgpt-model-selector/master/demo1.gif" width="350" height="280">](https://github.com/calcuis/chatgpt-model-selector/blob/main/demo1.gif)
 
+#### new feature: cgg clone [URL]
+With this feature, you can clone any GGUF model/file from an URL, save it in the current directory, and ready to connect it locally (run in your own machine).
+
 #### sample model(s) available to download (try out)
 For general purpose
-https://huggingface.co/calcuis/chat/blob/main/chat.gguf
-
+https://huggingface.co/calcuis/chat/blob/main/chat.gguf (size: around 2GB or less)
+```
+cgg clone https://huggingface.co/calcuis/chat/resolve/main/chat.gguf
+```
 For coding
-https://huggingface.co/calcuis/code_mini/blob/main/code.gguf
-
+https://huggingface.co/calcuis/code_mini/blob/main/code.gguf (size: around 3GB or more)
+```
+cgg clone https://huggingface.co/calcuis/chat/resolve/main/code.gguf
+```
 For health/medical advice
-https://huggingface.co/calcuis/medi_mini/blob/main/medi.gguf
-
+https://huggingface.co/calcuis/medi_mini/blob/main/medi.gguf (size: around 3GB or more)
+```
+cgg clone https://huggingface.co/calcuis/chat/resolve/main/medi.gguf
+```
 ***those are all experimental models; no guarantee on quality
