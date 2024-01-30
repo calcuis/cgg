@@ -25,7 +25,7 @@ cgg -v
 cgg menu
 ```
 ### graphical user interface (GUI) caller
-Simple GUI to interact with a chat model for generating responses (recommanded).
+Simple GUI to interact with a chat model for generating responses (recommended).
 #### call cpp connector:
 ```
 cgg cpp
