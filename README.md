@@ -50,8 +50,8 @@ GGUF file(s) in the same directory will automatically be detected by the caller,
 [<img src="https://raw.githubusercontent.com/calcuis/chatgpt-model-selector/master/demo.gif" width="350" height="280">](https://github.com/calcuis/chatgpt-model-selector/blob/main/demo.gif)
 [<img src="https://raw.githubusercontent.com/calcuis/chatgpt-model-selector/master/demo1.gif" width="350" height="280">](https://github.com/calcuis/chatgpt-model-selector/blob/main/demo1.gif)
 
-#### new feature: cgg clone [URL]
-With this feature, you can clone any GGUF model/file from an URL, save it in the current directory, and ready to connect it locally (run in your own machine).
+#### clone feature: cgg clone [URL]
+With this feature, you can clone any GGUF model/file from URL, save it in the current directory, and get it ready to connect locally (run it with your own machine).
 
 #### sample model(s) available to download (try out)
 For general purpose
