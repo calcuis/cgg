@@ -51,7 +51,7 @@ GGUF file(s) in the same directory will automatically be detected by the caller,
 [<img src="https://raw.githubusercontent.com/calcuis/chatgpt-model-selector/master/demo1.gif" width="350" height="280">](https://github.com/calcuis/chatgpt-model-selector/blob/main/demo1.gif)
 
 ### clone feature: cgg clone [URL]
-With this feature, you can clone any GGUF model/file from URL, save it in the current directory, and get it ready to connect locally (run it with your own machine); depends on the file size, it may take a while to complete the clone process, please be patient. (an issue was found for mac users: ssl cert. verify failed; solution: click Install Certificates.command; details please refer to issues)
+With this feature, you can clone any GGUF model/file from URL, save it in the current directory, and get it ready to connect locally (run it with your own machine); depends on the file size, it may take a while to complete the clone process, please be patient. (an issue was found for mac users: ssl cert. verify failed; solution: click Install Certificates.command under your Python version folder; details please refer to issues)
 
 #### sample model(s) available to download (try out)
 For general purpose
