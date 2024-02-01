@@ -50,8 +50,11 @@ GGUF file(s) in the same directory will automatically be detected by the caller,
 [<img src="https://raw.githubusercontent.com/calcuis/chatgpt-model-selector/master/demo.gif" width="350" height="280">](https://github.com/calcuis/chatgpt-model-selector/blob/main/demo.gif)
 [<img src="https://raw.githubusercontent.com/calcuis/chatgpt-model-selector/master/demo1.gif" width="350" height="280">](https://github.com/calcuis/chatgpt-model-selector/blob/main/demo1.gif)
 
-### clone feature: cgg clone [URL]
-With this fast clone feature, you can clone any GGUF model/file from URL, save it in the current directory, and get it ready to connect locally (run it with your own machine offline); depends on the file size, it may take a while to complete the clone process (you can see a dynamic downloading progress bar after updating to the latest version), please be patient. (an universal issue was detected for mac users: ssl cert. verify failed; solution: click Install Certificates.command under your Python version folder; details please refer to [issues](https://github.com/calcuis/cgg/issues) reported)
+### clone feature
+```
+cgg clone [url]
+```
+With this fast clone feature, you can clone any GGUF model/file from URL, save it in the current directory, and get it ready to connect locally (run it with your own machine offline); depends on the file size, it may take a while to complete the clone process; and you can see a dynamic progress bar showing the downloading status in this latest version. (an universal issue was detected for mac users: ssl cert. verify failed; possible solution: click Install Certificates.command under your Python version folder; details please refer to [issues](https://github.com/calcuis/cgg/issues) reported)
 
 #### sample model(s) available to download (try out)
 For general purpose
