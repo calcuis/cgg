@@ -54,21 +54,21 @@ GGUF file(s) in the same directory will automatically be detected by the caller,
 ```
 cgg clone [url]
 ```
-With this fast clone feature, you can clone any GGUF model/file from URL, save it in the current directory, and get it ready to connect locally (run it with your own machine offline); depends on the file size, it may take a while to complete the clone process; and you can see a dynamic progress bar showing the downloading status in this latest version. (an universal issue was detected for mac users: ssl cert. verify failed; possible solution: click Install Certificates.command under your Python version folder; details please refer to [issues](https://github.com/calcuis/cgg/issues) reported)
+With this fast clone feature, you can clone any GGUF model/file from URL, save it automatically in the current directory, and get it ready to connect locally (run it with your own machine offline); depends on the file size, as well as the network connectivity, it may take a while to complete the clone process; and you can see a dynamic progress bar showing the downloading status in this latest version. (an universal issue was detected for mac users: ssl cert. verify failed; possible solution: click Install Certificates.command under your Python version folder; details please refer to [issues](https://github.com/calcuis/cgg/issues) reported)
 
 #### sample model(s) available to download (try out)
 For general purpose
-https://huggingface.co/calcuis/chat/blob/main/chat.gguf (size: around 2GB or less)
+[chat.gguf] (size: around 2GB or less)
 ```
 cgg clone https://huggingface.co/calcuis/chat/resolve/main/chat.gguf
 ```
 For coding
-https://huggingface.co/calcuis/code_mini/blob/main/code.gguf (size: around 3GB or more)
+[code.gguf] (size: around 3GB or more)
 ```
 cgg clone https://huggingface.co/calcuis/chat/resolve/main/code.gguf
 ```
 For health/medical advice
-https://huggingface.co/calcuis/medi_mini/blob/main/medi.gguf (size: around 3GB or more)
+[medi.gguf] (size: around 3GB or more)
 ```
 cgg clone https://huggingface.co/calcuis/chat/resolve/main/medi.gguf
 ```
