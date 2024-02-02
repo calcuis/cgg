@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-__version__="0.0.6"
+__version__="0.0.7"
 
 def __init__():
     import argparse
