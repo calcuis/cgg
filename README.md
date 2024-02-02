@@ -50,6 +50,12 @@ GGUF file(s) in the same directory will automatically be detected by the caller,
 [<img src="https://raw.githubusercontent.com/calcuis/chatgpt-model-selector/master/demo.gif" width="350" height="280">](https://github.com/calcuis/chatgpt-model-selector/blob/main/demo.gif)
 [<img src="https://raw.githubusercontent.com/calcuis/chatgpt-model-selector/master/demo1.gif" width="350" height="280">](https://github.com/calcuis/chatgpt-model-selector/blob/main/demo1.gif)
 
+#### sample model list
+```
+cgg s
+```
+Opt a sample GGUF from the lazy list (download ready) or use the clone feature below.
+
 ### clone feature
 ```
 cgg clone [url]
