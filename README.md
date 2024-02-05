@@ -1,6 +1,6 @@
 ### GGUF caller
 
-[<img src="https://raw.githubusercontent.com/calcuis/cgg/master/cgg.gif" width="128" height="128">](https://github.com/calcuis/cgg/blob/main/cgg.gif)
+[<img src="https://raw.githubusercontent.com/calcuis/cgg/master/cgg.gif" width="128" height="128">](https://github.com/calcuis/cgg)
 [![Static Badge](https://img.shields.io/badge/ver.-0.0.9-blue?logo=github)](https://github.com/calcuis/cgg/releases)
 
 This package is a GGUF (GPT-Generated Unified Format) file/model caller.
