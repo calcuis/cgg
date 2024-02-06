@@ -80,4 +80,4 @@ You can either use the clone feature above or opt a sample GGUF straight from th
 ```
 cgg s
 ```
-More options might be found on list as it can be updated independently without affecting the code.
+More options might be found on list as it can be updated independently (without affecting the code).
