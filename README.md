@@ -76,8 +76,7 @@ cgg clone https://huggingface.co/calcuis/chat/resolve/main/medi.gguf
 ***those are all experimental models; no guarantee on quality
 
 #### sample model list
-You can either use the clone feature above or opt a sample GGUF straight from the lazy list by:
+You can either use the clone feature above or opt it straight from the lazy list by:
 ```
 cgg s
 ```
-More options might be provided on list as it can be updated independently.
