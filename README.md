@@ -91,5 +91,5 @@ Or by (analyzor p):
 cgg pp
 ```
 
-#### our website (alpha)
+#### website (alpha)
 [gguf.us](https://gguf.us)
