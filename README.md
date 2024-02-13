@@ -80,3 +80,13 @@ You can either use the clone feature above or opt it straight from the lazy list
 ```
 cgg s
 ```
+
+#### pdf analyzor (beta)
+You can load PDF into the model for analysis right away by (analyzor c):
+```
+cgg pc
+```
+Or by (analyzor p):
+```
+cgg pp
+```
