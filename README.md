@@ -66,12 +66,12 @@ cgg clone https://huggingface.co/calcuis/chat/resolve/main/chat.gguf
 For coding
 [code.gguf] (size: around 3GB or more)
 ```
-cgg clone https://huggingface.co/calcuis/chat/resolve/main/code.gguf
+cgg clone https://huggingface.co/calcuis/code_mini/resolve/main/code.gguf
 ```
 For health/medical advice
 [medi.gguf] (size: around 3GB or more)
 ```
-cgg clone https://huggingface.co/calcuis/chat/resolve/main/medi.gguf
+cgg clone https://huggingface.co/calcuis/medi_mini/resolve/main/medi.gguf
 ```
 ***those are all experimental models; no guarantee on quality
 
