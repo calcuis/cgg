@@ -85,6 +85,7 @@ You can either use the clone feature above or opt it straight from the lazy list
 ```
 cgg s
 ```
+[<img src="https://raw.githubusercontent.com/calcuis/gguf-connector/master/demo2.gif" width="350" height="225">](https://github.com/calcuis/gguf-connector/blob/main/demo2.gif)
 
 #### pdf analyzor (beta)
 You can load PDF into the model for analysis right away by (analyzor c):
