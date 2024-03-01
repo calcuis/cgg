@@ -88,6 +88,11 @@ For wealth/financial plan
 ```
 cgg clone https://huggingface.co/calcuis/gguf/resolve/main/finance.gguf
 ```
+For calculation/math solution
+[math.gguf] (size: around 3GB or more)
+```
+cgg clone https://huggingface.co/calcuis/gguf/resolve/main/math.gguf
+```
 ***those are all experimental models; no guarantee on quality
 
 #### sample model list
