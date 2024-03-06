@@ -112,7 +112,7 @@ Or by (analyzor p):
 cgg pp
 ```
 
-#### website (container)
+#### website
 Click [gguf.us](https://gguf.us) or launch it straight from console by:
 ```
 cgg go
