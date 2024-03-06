@@ -114,3 +114,7 @@ cgg pp
 
 #### website (alpha)
 [gguf.us](https://gguf.us)
+Or launch it straight from console by:
+```
+cgg go
+```
