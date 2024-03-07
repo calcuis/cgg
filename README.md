@@ -60,7 +60,7 @@ cgg r
 ```
 cgg clone [url]
 ```
-With this fast clone feature, you can clone any (GGUF model) file from URL, save it automatically in the current directory, and get it ready to connect locally (run it with your own machine offline); depends on the file size, as well as the network connectivity, it may take a while to complete the clone process; and you can see a dynamic progress bar showing the downloading status in this latest version. (an universal issue was detected for mac users: ssl cert. verify failed; possible solution: click Install Certificates.command under your Python version folder; details please refer to [issues](https://github.com/calcuis/cgg/issues) reported)
+With this fast clone feature, you can clone any (GGUF model) file from URL, save it automatically in the current directory, and get it ready to connect locally (run it with your own machine offline); depends on the file size, as well as the network connectivity, it may take a while to complete the clone process; and you are able to see a dynamic progress bar showing the downloading status.
 
 #### sample model(s) available to download (try out)
 For general purpose
