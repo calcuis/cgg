@@ -22,5 +22,3 @@ def __init__():
         from gguf_connector import w
     elif args.tag=="menu":
         from gguf_connector import menu
-    elif args.tag=="s":
-        from gguf_connector import download
