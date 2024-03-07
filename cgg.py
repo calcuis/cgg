@@ -6,7 +6,7 @@ def __init__():
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument('-v', '--version', action='version', version='%(prog)s ' + __version__)
-    parser.add_argument('tag', help='tag(s) available: c, cpp, g, gpp, go, r, s or menu')
+    parser.add_argument('tag', help='tag(s) available: c, cpp, g, gpp, go, r or menu')
     args = parser.parse_args()
     if args.tag=="c":
         from gguf_connector import c
