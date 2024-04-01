@@ -115,5 +115,5 @@ cgg pp
 #### website
 Click [gguf.us](https://gguf.us) or launch it straight from console by:
 ```
-cgg go
+cgg us
 ```
