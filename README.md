@@ -111,7 +111,7 @@ Or by (analyzor p):
 ```
 cgg pp
 ```
-#### wav recognizor (beta)
+#### voice/speech recognizor (beta)
 You can prompt voice/speech (wav file) as input by (recognizor c):
 ```
 cgg vc
