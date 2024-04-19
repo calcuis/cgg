@@ -111,6 +111,15 @@ Or by (analyzor p):
 ```
 cgg pp
 ```
+#### wav recognizor (beta)
+You can prompt voice/speech (wav file) as input by (recognizor c):
+```
+cgg vc
+```
+Or by (recognizor p):
+```
+cgg vp
+```
 
 #### website
 Click [gguf.us](https://gguf.us) or launch it straight from console by:
