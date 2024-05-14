@@ -129,6 +129,10 @@ Or by (online recognizor p):
 cgg op
 ```
 #### website
+Click [gguf.io](https://www.gguf.io) (mirror of gguf.us) or launch it straight from console by:
+```
+cgg io
+```
 Click [gguf.us](https://gguf.us) or launch it straight from console by:
 ```
 cgg us
