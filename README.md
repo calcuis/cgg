@@ -56,6 +56,10 @@ You can check model metadata by:
 ```
 cgg r
 ```
+Or try the new reader (beta) by:
+```
+cgg r2
+```
 ### clone feature
 ```
 cgg clone [url]
