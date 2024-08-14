@@ -56,9 +56,9 @@ You can check model metadata by:
 ```
 cgg r
 ```
-Or try the new reader (beta) by:
+Or try the model analyzor by:
 ```
-cgg r2
+cgg a
 ```
 ### clone feature
 ```
@@ -66,7 +66,7 @@ cgg clone [url]
 ```
 With this fast clone feature, you can clone any (GGUF model) file from URL, save it automatically in the current directory, and get it ready to connect locally (run it with your own machine offline); depends on the file size, as well as the network connectivity, it may take a while to complete the clone process; and you are able to see a dynamic progress bar showing the downloading status.
 
-If you are mac newbie, you might encounter ssl cert. issue while executing clone command or while entering the lazylist below; a practical solution: click Install Certificates.command under your Python version folder; details please refer to the [issues](https://github.com/calcuis/cgg/issues/1) reported.
+If you are a mac newbie, you might encounter ssl cert. issue while executing clone command or while entering the lazylist below; a practical solution: click Install Certificates.command under your Python version folder; details please refer to the [issues](https://github.com/calcuis/cgg/issues/1) reported.
 
 #### sample model(s) available to download (try out)
 For general purpose
