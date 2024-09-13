@@ -8,7 +8,7 @@ This package is a GGUF (GPT-Generated Unified Format) file/model caller. Perfect
 ```
 pip install cgg
 ```
-If your c/c++ compiler cannot build the wheel for llama engine successfully; opt to get it [here](https://github.com/abetlen/llama-cpp-python/releases) straight; or you could try gguf-core.
+If your c/c++ compiler cannot build the engine wheel successfully; opt to get it [here](https://github.com/abetlen/llama-cpp-python/releases) straight; or you could try gguf-core.
 #### update the caller (if not in the latest version) by:
 ```
 pip install cgg --upgrade
