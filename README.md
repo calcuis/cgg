@@ -8,7 +8,7 @@ This package is a GGUF (GPT-Generated Unified Format) file/model caller. Perfect
 ```
 pip install cgg
 ```
-If your c/c++ compiler cannot build the engine wheel successfully; opt to get it [here](https://github.com/abetlen/llama-cpp-python/releases) straight; or could try [core](https://pypi.org/project/gguf-core).
+If your c/c++ compiler cannot build the engine wheel successfully; could opt to get it [here](https://github.com/abetlen/llama-cpp-python/releases) straight; or try [core](https://pypi.org/project/gguf-core).
 #### update the caller (if not in the latest version) by:
 ```
 pip install cgg --upgrade
@@ -108,6 +108,12 @@ You can either use the clone feature above or opt it straight from the lazy list
 cgg s
 ```
 [<img src="https://raw.githubusercontent.com/calcuis/gguf-connector/master/demo2.gif" width="350" height="225">](https://github.com/calcuis/gguf-connector/blob/main/demo2.gif)
+
+#### comfy gguf pack
+Download [comfy](https://github.com/calcuis/comfy) GGUF windows portable pack by:
+```
+cgg y
+```
 
 #### pdf analyzor (beta)
 You can load PDF into the model for analysis right away by (analyzor c):
