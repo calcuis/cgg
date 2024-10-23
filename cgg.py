@@ -20,6 +20,8 @@ def __init__():
         from gguf_connector import r
     elif args.tag=="a":
         from gguf_connector import r2
+    elif args.tag=="y":
+        from gguf_connector import y
     elif args.tag=="io":
         from gguf_connector import i
     elif args.tag=="us":
