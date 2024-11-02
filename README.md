@@ -46,6 +46,10 @@ cgg gpp
 ```
 cgg g
 ```
+#### call v connector:
+```
+cgg v
+```
 
 GGUF file(s) in the same directory will automatically be detected by the caller, hence, a selection menu will be shown in the console as below.
 
