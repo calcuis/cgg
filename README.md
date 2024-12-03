@@ -146,6 +146,10 @@ Or by (online recognizor p):
 cgg op
 ```
 #### website
+Click [gguf.org](https://gguf.org) (mirror of gguf.us) or launch it straight from console by:
+```
+cgg org
+```
 Click [gguf.io](https://gguf.io) (mirror of gguf.us) or launch it straight from console by:
 ```
 cgg io
