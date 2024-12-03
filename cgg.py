@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-__version__="0.3.9"
+__version__="0.4.0"
 
 def __init__():
     import argparse
@@ -28,5 +28,7 @@ def __init__():
         from gguf_connector import i
     elif args.tag=="us":
         from gguf_connector import w
+    elif args.tag=="org":
+        from gguf_connector import o
     elif args.tag=="menu":
         from gguf_connector import menu
