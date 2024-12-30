@@ -118,7 +118,11 @@ Download [comfy](https://github.com/calcuis/comfy) GGUF windows portable pack by
 ```
 cgg y
 ```
-
+#### prompt generator
+Generate random bulk prompt(s) and save it in separate text file(s) by:
+```
+cgg pg
+```
 #### pdf analyzor (beta)
 You can load PDF into the model for analysis right away by (analyzor c):
 ```
