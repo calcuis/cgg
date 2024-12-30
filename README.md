@@ -123,7 +123,7 @@ Generate random bulk prompt(s) and save it in separate text file(s) by:
 ```
 cgg pg
 ```
-*around 0.001% duplicate rate; opt to use [cleansor](https://pypi.org/project/cleansor) to remove it*
+*0.001% duplicate rate approximately; opt to use [cleansor](https://pypi.org/project/cleansor) to remove it*
 #### pdf analyzor (beta)
 You can load PDF into the model for analysis right away by (analyzor c):
 ```
