@@ -118,6 +118,11 @@ Download [comfy](https://github.com/calcuis/comfy) GGUF windows portable pack by
 ```
 cgg y
 ```
+#### gguf node
+Download [node](https://github.com/calcuis/gguf) for comfyui by:
+```
+cgg n
+```
 #### prompt generator
 Generate random bulk prompt(s) and save it in separate text file(s) by:
 ```
