@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-__version__="0.4.3"
+__version__="0.4.4"
 
 def __init__():
     import argparse
@@ -22,10 +22,10 @@ def __init__():
         from gguf_connector import r
     elif args.tag=="a":
         from gguf_connector import r2
-    elif args.tag=="n":
-        from gguf_connector import n
     elif args.tag=="y":
         from gguf_connector import y
+    elif args.tag=="n":
+        from gguf_connector import n
     elif args.tag=="io":
         from gguf_connector import i
     elif args.tag=="us":
