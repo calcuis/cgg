@@ -113,6 +113,11 @@ cgg s
 ```
 [<img src="https://raw.githubusercontent.com/calcuis/gguf-connector/master/demo2.gif" width="350" height="225">](https://github.com/calcuis/gguf-connector/blob/main/demo2.gif)
 
+#### gguf pack
+Download [gguf](https://github.com/calcuis/gguf-pack) windows portable pack by:
+```
+cgg p
+```
 #### comfy gguf pack
 Download [comfy](https://github.com/calcuis/comfy) GGUF windows portable pack by:
 ```
