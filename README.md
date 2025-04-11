@@ -65,6 +65,16 @@ Or try the model analyzor by:
 ```
 cgg a
 ```
+#### divider:
+Divide selected model into different part(s) by:
+```
+cgg d
+```
+#### merger:
+Merge all gguf in the current directory by:
+```
+cgg m
+```
 ### clone feature
 ```
 cgg clone [url]
