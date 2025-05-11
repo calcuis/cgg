@@ -170,6 +170,19 @@ Or by (online recognizor p):
 ```
 cgg op
 ```
+#### image/video generator (beta)
+Generate image from text input (t2i) by:
+```
+cgg t2i
+```
+Generate video from text input (t2v) by:
+```
+cgg t2v
+```
+Generate video from image and/or text input (i2v) by:
+```
+cgg i2v
+```
 #### website
 Click [gguf.org](https://gguf.org) (mirror of gguf.us) or launch it straight from console by:
 ```
