@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-__version__="0.4.7"
+__version__="0.4.8"
 
 def __init__():
     import argparse
@@ -36,6 +36,18 @@ def __init__():
         from gguf_connector import v2
     elif args.tag == 'i2v':
         from gguf_connector import vg2
+    elif args.tag == 'flux':
+        from gguf_connector import k
+    elif args.tag == 'qwen':
+        from gguf_connector import q5
+    elif args.tag == 'wan':
+        from gguf_connector import w2
+    elif args.tag == 'ltxv':
+        from gguf_connector import x2
+    elif args.tag == 'mochi':
+        from gguf_connector import m1
+    elif args.tag == 'gudio':
+        from gguf_connector import g2
     elif args.tag=="io":
         from gguf_connector import i
     elif args.tag=="us":
