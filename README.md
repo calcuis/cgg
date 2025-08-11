@@ -183,6 +183,31 @@ Generate video from image and/or text input (i2v) by:
 ```
 cgg i2v
 ```
+#### image/video connector
+Flux model connector
+```
+cgg flux
+```
+Qwen image connector
+```
+cgg qwen
+```
+Wan video connector
+```
+cgg wan
+```
+Ltxv model connector
+```
+cgg ltxv
+```
+Mochi connector
+```
+cgg mochi
+```
+Gudio connector
+```
+cgg gudio
+```
 #### website
 Click [gguf.org](https://gguf.org) (mirror of gguf.us) or launch it straight from console by:
 ```
