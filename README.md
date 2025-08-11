@@ -183,7 +183,7 @@ Generate video from image and/or text input (i2v) by:
 ```
 cgg i2v
 ```
-#### image/video connector
+#### image/video/audio connector
 Flux model connector
 ```
 cgg flux
