@@ -192,6 +192,10 @@ Qwen image connector
 ```
 cgg qwen
 ```
+Image edit connector
+```
+cgg edit
+```
 Wan video connector
 ```
 cgg wan
@@ -203,6 +207,18 @@ cgg ltxv
 Mochi connector
 ```
 cgg mochi
+```
+Docling connector
+```
+cgg docling
+```
+Fastvlm connector
+```
+cgg fastvlm
+```
+Vibevoice connector
+```
+cgg vibevoice
 ```
 Gudio connector
 ```
