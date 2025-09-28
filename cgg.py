@@ -46,6 +46,14 @@ def __init__():
         from gguf_connector import x2
     elif args.tag == 'mochi':
         from gguf_connector import m1
+    elif args.tag == 'edit':
+        from gguf_connector import q8
+    elif args.tag == 'docling':
+        from gguf_connector import n3
+    elif args.tag == 'fastvlm':
+        from gguf_connector import f9
+    elif args.tag == 'vibevoice':
+        from gguf_connector import v6
     elif args.tag == 'gudio':
         from gguf_connector import g2
     elif args.tag=="io":
